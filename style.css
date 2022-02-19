@@ -1,0 +1,52 @@
+body
+{
+    background: #bc5ef2;
+    font-family: 'Gloria Hallelujah', cursive;
+}
+p
+{
+    color: #bc5ef2;
+}
+#BOL
+{
+    color: #f595c5;
+}
+#DOL
+{
+    background-color: #f595c5;
+}
+p
+{
+    background-color: #f595c5;
+}
+#SOL
+{
+    background-color: #f595c5;
+    text-align: center;
+    position:absolute;
+    bottom:0;
+    width:100%;
+    height:60px;   
+    background:#f595c5;
+    font-size: 32px;
+}
+h3
+{
+color:#f595c5
+}
+h4
+{
+ color: #f595c5;
+}
+.copy_right_footer
+{
+position: fixed;
+color: #bc5ef2;
+bottom: 0;
+width: 100%;
+font-size: 18px;
+background-color:#f595c5;
+line-height: 3;
+text-align: center;
+text-shadow: 5px 5px 5px #bc5ef2;
+}
